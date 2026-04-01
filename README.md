@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/hud.svg" width="900" alt="HUD" />
+  <img src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/main/assets/hud.svg"
+       width="900"
+       alt="HUD" />
 </div>
 
 <div align="center">
