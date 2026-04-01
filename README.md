@@ -1,12 +1,4 @@
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/main/assets/banner.png"
-    width="900"
-    alt="Banner do perfil"
-  />
-</div>
-
-<div align="center">
   <img src="./assets/banner.gif" width="900" alt="banner animado" />
 </div>
 
