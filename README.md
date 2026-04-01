@@ -1,4 +1,12 @@
 <div align="center">
+
+<!-- GIF BANNER → substitua o src abaixo pelo link do seu GIF de cabeçalho -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI2ZmlmbjA3a3B0ODg4d3R4MWM0ZXRjdWMwZGFvdGU2bTJ6MmZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif"
+  alt="banner animado"
+  width="35%"
+  style="max-height:200px; object-fit:cover;" />
+
+<div align="center">
   <img src="./assets/banner.gif" width="900" alt="banner animado" />
 </div>
 
