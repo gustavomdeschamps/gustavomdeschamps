@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/main/assets/banner.gif"
-       width="900"
-       alt="banner animado" />
+  <img src="./assets/hud.svg" width="900" alt="HUD" />
 </div>
 
 <div align="center">
