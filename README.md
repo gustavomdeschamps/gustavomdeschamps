@@ -9,11 +9,6 @@
   <h3>🎮 Iniciante em Dev Games</h3>
   <p>Aprendendo e construindo meus primeiros projetos — um commit de cada vez.</p>
 
-  <p>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=gustavomdeschamps&color=00ffd5&style=for-the-badge" />
-    <img alt="Followers" src="https://img.shields.io/github/followers/gustavomdeschamps?color=7a00ff&style=for-the-badge" />
-  </p>
-
 </div>
 
 ---
