@@ -1,6 +1,4 @@
 <div align="center">
-
-<!-- GIF BANNER → substitua o src abaixo pelo link do seu GIF de cabeçalho -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl2b2Vyc2hyenNlNWM3OHY2eW9sZDZuY3p1cHNtcmN4bGNuNXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWQqV7nVbTMaWr1KTR/giphy.gif"
   alt="banner animado"
   width="50%"
@@ -12,7 +10,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0019,50:8B0000,100:1a1a1a&height=180&section=header&text=gustavomdeschamps&fontSize=44&fontColor=ffffff&fontAlignY=35" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=gustavomdeschamps;sou+fascinado+em+games"
+    alt="Typing SVG"
+  />
+</p>
 
   <img src="https://img.shields.io/badge/DEV%20GAMES-INICIANTE-FFD700?style=for-the-badge" />
   <p>Aprendendo e construindo meus primeiros projetos — um commit de cada vez.</p>
