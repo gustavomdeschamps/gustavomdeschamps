@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=gustavomdeschamps;sou+fascinado+em+games"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=Gustavo+Moreira+Deschamps;sou+fascinado+em+games"
     alt="Typing SVG"
   />
 </p>
@@ -53,3 +53,5 @@
  Linkedln: www.linkedin.com/in/gustavo-deschamps-a28b07370
  
  Email: gustavodeschamps33@gmail.com
+
+
