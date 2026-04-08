@@ -53,9 +53,3 @@
  Linkedln: www.linkedin.com/in/gustavo-deschamps-a28b07370
  
  Email: gustavodeschamps33@gmail.com
-
- <div align="center">
-  <img src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
