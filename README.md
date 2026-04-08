@@ -54,4 +54,8 @@
  
  Email: gustavodeschamps33@gmail.com
 
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
