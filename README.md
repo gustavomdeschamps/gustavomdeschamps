@@ -50,7 +50,7 @@
 ---
 <img src="https://img.shields.io/badge/CONTATO-00AAFF?style=for-the-badge" />
 
- Linkedln: www.linkedin.com/in/gustavo-deschamps-a28b07370
+ Linkedln: www.linkedin.com/in/gustavo-deschamps
  
  Email: gustavodeschamps33@gmail.com
 
