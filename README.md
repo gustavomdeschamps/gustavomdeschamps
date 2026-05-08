@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl2b2Vyc2hyenNlNWM3OHY2eW9sZDZuY3p1cHNtcmN4bGNuNXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWQqV7nVbTMaWr1KTR/giphy.gif"
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl2b2Vyc2hyenNlNWM3OHY2eW9sZDZuY3p1cHNtcmN4bGNuNXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWQqV7nVbTMaWr1nVbTMaWr1KTR/giphy.gif"
   alt="banner animado"
   width="50%"
   style="max-height:200px; object-fit:cover;" />
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=Gustavo+Moreira+Deschamps;sou+fascinado+em+games"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=Gustavo+Moreira+Deschamps;sou+fascinado+e[...]
     alt="Typing SVG"
   />
 </p>
@@ -54,6 +54,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:gustavodeschamps33@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavodeschamps33@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
