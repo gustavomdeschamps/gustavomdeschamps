@@ -1,19 +1,19 @@
 <div align="center">
+  <!-- GIF do topo -->
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl2b2Vyc2hyenNlNWM3OHY2eW9sZDZuY3p1cHNtcmN4bGNuNXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWQqV7nVbTMaWr1nVbTMaWr1KTR/giphy.gif"
-    alt="banner animado"
-    width="900"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBvanh5eDV0YWt1bjA1YmowZ3J0MDh4dzVjNmZxNG82N2dtdmVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWQqV7nVbTMaWr1KTR/giphy.gif"
+    alt="gif topo"
+    width="50%"
+    style="max-height:200px; object-fit:cover;"
   />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gustavomdeschamps/gustavomdeschamps/main/assets/banner.gif" width="900" alt="banner animado" />
-</div>
+  <!-- Banner do repo -->
+  <img src="./assets/banner.gif" width="900" alt="banner animado" />
 
-<div align="center">
+  <!-- Nome + frase (typing) -->
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1100&lines=Gustavo+Moreira+Deschamps;sou+fascinado+em+criar+jogos+e+aprender+programa%C3%A7%C3%A3o"
+      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1200&lines=Gustavo+Moreira+Deschamps;sou+fascinado+em+criar+jogos+e+aprender+programa%C3%A7%C3%A3o"
       alt="Typing SVG"
     />
   </p>
