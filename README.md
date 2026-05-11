@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=Gustavo+Moreira+Deschamps;sou+fascinado+e[...]
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=6300&pause=1800&color=7A0019&center=true&vCenter=true&width=1000&lines=Gustavo+Moreira+Deschamps;sou+fascinado+em+criar+jogos+e+aprender+programa%C3%A7%C3%A3o"
     alt="Typing SVG"
   />
 </p>
@@ -35,7 +35,7 @@
 
 ---
 
- <img src="https://img.shields.io/badge/FERRAMENTAS/TECNOLOGIAS(EM APRENDIZADO)-0000ff?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/FERRAMENTAS/TECNOLOGIAS(EM%20APRENDIZADO)-0000ff?style=for-the-badge" />
 
 <div align="center">
   <img height="36" src="https://skillicons.dev/icons?i=unity,cs,github,java,idea,html,css,mysql" />
