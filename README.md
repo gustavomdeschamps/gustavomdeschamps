@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/FERRAMENTAS/TECNOLOGIAS(EM%20APRENDIZADO)-0000ff?style=for-the-badge" />
 <div>
-  <img height="36" src="https://skillicons.dev/icons?i=unity,cs,github,java,idea,html,css,js,mysql,godot" />
+  <img height="36" src="https://skillicons.dev/icons?i=unity,cs,github,java,idea,html,css,git,unreal,mysql,godot" />
 </div>
 
 ---
