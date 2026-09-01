@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3200&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=900&height=90&lines=GUSTAVO+MOREIRA+DESCHAMPS;sou+fascinado+por+desenvolvimento+de+jogos;um+commit+de+cada+vez." alt="Texto animado alternando nome, paixão por jogos e lema pessoal" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3200&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=900&height=90&lines=GUSTAVO+MOREIRA+DESCHAMPS;SOU+FASCINADO+POR+DESENVOLVIMENTO+DE+JOGOS." alt="Texto animado alternando nome, paixão por jogos e lema pessoal" />
 
 <br />
 
