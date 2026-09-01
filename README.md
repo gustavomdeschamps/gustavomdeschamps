@@ -2,7 +2,7 @@
 
 <img src="./assets/header.gif" alt="Banner arcade animado com o nome Gustavo Deschamps sobre uma grade neon em perspectiva" width="100%" />
 
-<img src="./assets/game-on-banner.gif" alt="Letreiro neon animado escrito GAME ON" width="620" />
+
 
 <br />
 
@@ -12,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/DEV_GAMES-FF0033?style=for-the-badge&labelColor=0D0208" alt="Badge Dev Games" />
 <img src="https://img.shields.io/badge/INICIANTE-FFD500?style=for-the-badge&labelColor=0D0208" alt="Badge Iniciante" />
-<img src="https://komarev.com/ghpvc/?username=gustavomdeschamps&style=for-the-badge&color=00E5FF&label=VISITANTES" alt="Contador de visitas do perfil" />
 
 <br /><br />
 
