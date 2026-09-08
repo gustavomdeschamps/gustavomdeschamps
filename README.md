@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" alt="Banner arcade animado com o nome Gustavo Deschamps sobre uma grade neon em perspectiva" width="100%" />
+<img src="./assets/header.gif" alt="Banner arcade animado com o nome Gustavo Moreira Deschamps sobre uma grade neon em perspectiva" width="100%" />
 
 
 
